@@ -1,0 +1,40 @@
+body,html{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: rgb(54, 126, 245);
+}
+
+nav .brand-logo {
+    margin-left: 15px;
+    font-style: italic;
+    font-family: none;
+}
+
+.main-text{
+    font-weight: bolder;
+}
+
+.move{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+
+.icon-coffee{
+    color: rgb(54, 126, 245);
+}
+
+.footer-one{
+    background: rgb(54, 126, 245);
+}
+
+.footer-two{
+    background: rgb(15, 76, 173);
+}
