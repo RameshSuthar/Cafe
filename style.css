@@ -11,6 +11,7 @@ nav .brand-logo {
     margin-left: 15px;
     font-style: italic;
     font-family: none;
+    font-size: 1.7rem !important;
 }
 
 .main-text{
